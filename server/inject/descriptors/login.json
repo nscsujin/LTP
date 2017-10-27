@@ -56,7 +56,7 @@
     {
       "match": [],
       "action": "submit",
-      "model": "loginclassic"
+      "model": "login"
     }
   ]
 }
