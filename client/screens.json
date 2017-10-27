@@ -27,6 +27,12 @@
       "sourceScreenId": "app.login.loginclassic",
       "sourceAppId": "universaltemplates",
       "model": "login"
+    },
+    {
+      "id": "menu1",
+      "name": "menu1",
+      "sourceScreenId": "app.menu",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
