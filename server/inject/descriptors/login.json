@@ -54,7 +54,9 @@
   },
   "connect": [
     {
-      "match": [],
+      "match": [
+        "islogin"
+      ],
       "action": "submit",
       "model": "login"
     }
