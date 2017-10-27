@@ -45,6 +45,11 @@
       },
       "selector": "#btnsubmit",
       "control": "action.button"
+    },
+    "islogin": {
+      "type": "identifier",
+      "control": "action.button",
+      "selector": ".button[value='Login']"
     }
   },
   "connect": [
