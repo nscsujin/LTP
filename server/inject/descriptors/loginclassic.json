@@ -45,5 +45,10 @@
       }
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "action": "submit"
+    }
+  ]
 }
