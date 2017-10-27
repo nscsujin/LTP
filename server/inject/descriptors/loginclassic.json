@@ -23,8 +23,8 @@
           "submit"
         ]
       },
-      "selector": "#pwd",
-      "control": "text"
+      "selector": "#btnsubmit",
+      "control": "action.button"
     },
     "errorMessage": {
       "type": "string",
@@ -48,7 +48,8 @@
   "connect": [
     {
       "match": [],
-      "action": "submit"
+      "action": "submit",
+      "model": "loginclassic"
     }
   ]
 }
