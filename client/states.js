@@ -33,12 +33,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.loginclassic', {
+    }).state('app.login', {
         views: {
             app: {
-                controller: 'app_loginclassic',
+                controller: 'app_login',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.loginclassic');
+                    return app.templateProvider('app.login');
                 }
             }
         }

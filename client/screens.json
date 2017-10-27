@@ -22,8 +22,8 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "loginclassic",
-      "name": "Login-Classic",
+      "id": "login",
+      "name": "Login",
       "sourceScreenId": "app.login.loginclassic",
       "sourceAppId": "universaltemplates",
       "model": "loginclassic"
